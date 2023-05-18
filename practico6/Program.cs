@@ -9,18 +9,16 @@
 
 /////// Ejercicio 1 ///////
 
-// string num;
-// int realNum, aux = 0;
+// int num, aux = 0;
 // bool resultado;
 
 // Console.WriteLine("Escriba un numero");
-// num = Console.ReadLine();
-// resultado = int.TryParse(num, out realNum);
+// resultado = int.TryParse(Console.ReadLine(), out num);
 // if (resultado) {
-//     if (realNum > 0) {
-//         while (realNum != 0) {
-//             aux = (aux * 10) + realNum%10;
-//             realNum = realNum/10;
+//     if (num > 0) {
+//         while (num != 0) {
+//             aux = (aux * 10) + num%10;
+//             num = num/10;
 //         }
 //         Console.WriteLine("El numero invertido es: "+aux);
 //     }
