@@ -13,3 +13,18 @@ C:\Users\josei\OneDrive\Escritorio\FACULTAD\Taller de lenguajes 1\PRACTICA\TP6\t
 C:\Users\josei\OneDrive\Escritorio\FACULTAD\Taller de lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.pdb
 C:\Users\josei\OneDrive\Escritorio\FACULTAD\Taller de lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
 C:\Users\josei\OneDrive\Escritorio\FACULTAD\Taller de lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\ref\practico6.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\bin\Debug\net7.0\practico6.exe
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\bin\Debug\net7.0\practico6.deps.json
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\bin\Debug\net7.0\practico6.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\bin\Debug\net7.0\practico6.pdb
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\refint\practico6.dll
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.pdb
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+E:\FACULTAD 2023\Taller de Lenguajes 1\PRACTICA\TP6\tl1_tp6_2023-josepro752\practico6\obj\Debug\net7.0\ref\practico6.dll

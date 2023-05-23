@@ -24,5 +24,20 @@
 //     }
 // }
 
-/////// Ejercicio 2 ///////
+/////// Ejercicio 4 ///////
 
+string? cadena, cadena2;
+Console.WriteLine("Ingrese una frase o palabra:\n");
+cadena = Console.ReadLine();
+if (cadena != null) {
+    Console.WriteLine("La longitud de: '"+cadena+"' es: "+cadena.Length);
+}
+Console.WriteLine("Ingrese una frase o palabra:\n");
+cadena2 = Console.ReadLine();
+if (cadena2 != null) {
+    cadena = cadena + cadena2;
+    Console.WriteLine("Las cadenas concatenadas son: "+cadena);
+}
+if (cadena != null) {
+    Console.WriteLine(""+cadena.Substring(0,cadena.Length/2));
+}
